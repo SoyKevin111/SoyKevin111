@@ -1,9 +1,16 @@
-- 👋 Hi, I’m Kevin Steven
+# 👋 Kevin Steven
 
+🧠 Aprendiendo desarrollo con enfoque en backend.  
+☕ Java | Spring Boot | Docker  
+🔧 Apasionado por APIs limpias, arquitectura sólida y buen código.
 
-<!---
-SoyKevin111/SoyKevin111 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-- 👀 I’m interested in Kotlin...
-- 🌱 I’m currently learning Angular...
---->
+### 💻 Tech Stack  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+📍 Explorando: arquitectura hexagonal · pruebas · buenas prácticas
