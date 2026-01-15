@@ -1,9 +1,4 @@
-# 👋 Kevin Steven
-
-🧠 Aprendiendo desarrollo con enfoque en backend.  
-☕ Java | Spring Boot
-
-### 💻 Tech Stack  
+Kevin Steven
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)
@@ -12,6 +7,3 @@
 ![Oracle](https://custom-icon-badges.demolab.com/badge/Oracle-F80000?logo=oracle&logoColor=fff)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
 
----
-
-📍 Explorando: arquitectura hexagonal · pruebas · buenas prácticas
